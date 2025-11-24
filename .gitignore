@@ -1,0 +1,11 @@
+# Compiled files
+*.exe
+*.o
+*.out
+
+# VSCode user-specific settings
+.vscode/launch.json
+.vscode/tasks.json
+.vscode/settings.json
+.vscode/extensions.json
+.vscode/c_cpp_properties.json
